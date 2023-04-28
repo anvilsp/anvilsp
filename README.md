@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello! ✨
+
+I'm Anvil and I'm a Computer Science student.
+
+pfp is by [awipan](https://awipan.carrd.co)
 
 <!--
 **anvilsp/anvilsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
